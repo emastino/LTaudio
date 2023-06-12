@@ -1,0 +1,4 @@
+ltspice==1.0.6
+numpy==1.24.3
+numpy==1.19.4
+scipy==1.10.1
